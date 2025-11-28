@@ -1,6 +1,6 @@
 ### 💚 About this project
 
-100% cloned from [https://github.com/IGPenguin/nomo](https://github.com/IGPenguin/nomo/)<br>
+100% cloned from [https://github.com/IGPenguin/nomo](https://github.com/IGPenguin/nomo/)<br><br>
 Sometime in future this will become a website to ease deciding what to cook, including short recipes.
 
 Well... hopefully, once I finish the other projects.
