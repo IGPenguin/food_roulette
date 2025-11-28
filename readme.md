@@ -17,5 +17,5 @@ Propose your changes for integration by submitting [pull requests](https://githu
 ----
 
 <sup>📱 Also <strong>visit my [mobile toolkit](https://github.com/IGPenguin/mobile-toolkit)</strong> project.<br></sup>
-<sup>✉️ Let's <strong>chat</strong> on [LinkedIn](https://www.linkedin.com/in/intergalacticpenguin/)!</sup>~
+<sup>✉️ Let's <strong>chat</strong> on [LinkedIn](https://www.linkedin.com/in/intergalacticpenguin/)!</sup>
 
